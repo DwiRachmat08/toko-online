@@ -1,0 +1,28 @@
+FTP Username: aji@surabayabekerja.com
+FTP server: ftp.surabayabekerja.com
+FTP & explicit FTPS port:  21
+FTP Password: ajipemkot321
+
+DB
+User “u9621234_aji” was added to the database “u9621234_aji”.
+password: ajipemkot321
+
+Revisi 1
+ok 1. User -> nambah produk
+ok 2. Produk -> user_id
+ok 3. Landing lage tanpa login -> by ip 
+ok 4. Hapus judul beranda
+ok 5. Fitur hapus (masih carousel, produk tidak bisa dihapus jika status history selesai)
+ok 6. History
+ok 7. Produk kami -> new produk
+ok 8. Nama toko per produk bisa diklik
+ok 9. Tambah user by admin saja
+ok 10. cek saat add to cart produk yang sama
+ok 11. saat checkout cek stok barang dan kurangi stok saat ini
+ok 12. history->admin(terima/tolak)
+jika status diterima/ditolak bisa dihapus, jika status selesai tidak bisa dihapus
+
+Revisi 2
+ok 1. ubah universitas ubhara -> universitas bhayangkara surabaya
+ok 2. margin-top antar produk
+ok 3. bisa upload multiple foto (masih ketika tambah produk)
